@@ -1,6 +1,6 @@
-# Project Title
+# Scanstuff
 
-Scanstuff - A minimal code for fixing scanned notes
+A minimal code for fixing scanned notes
 
 ## Description
 
