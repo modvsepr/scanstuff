@@ -5,7 +5,7 @@
 # example:
 # python3 scanstuff.py -f filename -t 20 -b 20 -m 20 -w 2400 -i
 #
-# Giuseppe A. Marzo
+# vsepr
 # 30 October 2024
 #
 # v 20241030
